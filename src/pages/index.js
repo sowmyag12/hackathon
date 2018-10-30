@@ -7,7 +7,7 @@ import Image from '../components/image'
 const IndexPage = () => (
   <Layout>
     <h1>Sowmya Ganesh Gupta</h1>
-    <p>I started learning full stack web development from August 2018. 
+    <p>I am from Sunnyvale,CA. I started learning full stack web development from August 2018. 
       I am passionate about coding. I have done a couple of projects
       too. I believe this would be an awesome oppurtunity to learn more 
       in this field, develop something cool and also meet several people 
